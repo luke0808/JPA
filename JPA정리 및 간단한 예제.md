@@ -2,7 +2,7 @@
 
 ## 1. JPA란 무엇인가?
 
-**JPA(Java** **Persistent** **API)**는 자바 플랫폼 SE((JAVA platform. **S**tandard **E**dition))와 
+**JPA**(**Java** **Persistent** **API**)는 자바 플랫폼 SE((JAVA platform. **S**tandard **E**dition))와 
 
 자바 플랫폼 EE(Java Platform, **E**nterprise **E**dition)
 
