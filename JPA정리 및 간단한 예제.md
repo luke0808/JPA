@@ -4,9 +4,7 @@
 
 **JPA**(**Java** **Persistent** **API**)는 자바 플랫폼 SE((JAVA platform. **S**tandard **E**dition))와 
 
-자바 플랫폼 EE(Java Platform, **E**nterprise **E**dition)
-
-를 사용하는 응용프로그램에서 관계형 데이터베이스를 관리를 표현하는 자바 API이다.
+자바 플랫폼 EE(Java Platform, **E**nterprise **E**dition)를 사용하는 응용프로그램에서 관계형 데이터베이스를 관리를 표현하는 자바 API이다.
 
 기존 데이터베이스를 관리하는 객체 Entity Bean(CRUD 쿼리 자동생성을 해준다.)을 JPA라고 바꾸고 JavaSE, JavaEE를 위한 영속성(persistence) 관리와 RDBMS와 OOP객체 사이의 불일치에서 오는 패러다임을 해결하기 위해 객체와 RDBMS를 매핑하는 역할을 하는 ORM을 위한 표준 기술이다. 
 
